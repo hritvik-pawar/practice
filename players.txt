@@ -13,6 +13,7 @@ Bumrah
 Yuzi chahal
 bhuvi
 
+
 reserves-
 shardul
 deepak
@@ -20,3 +21,7 @@ deepak
 net bowlers-
 harshal
 avesh
+
+coach-
+ravi shastri
+
