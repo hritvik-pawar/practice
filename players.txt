@@ -12,3 +12,7 @@ Bowlers-
 Bumrah
 Yuzi chahal
 bhuvi
+
+reserves-
+shardul
+deepak
