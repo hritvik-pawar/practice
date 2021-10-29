@@ -1,0 +1,8 @@
+
+welcome to players.txt
+
+rohit
+jaddu
+dhoni
+kohli
+pollard
